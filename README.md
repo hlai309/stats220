@@ -1,16 +1,17 @@
 # Stat220
 This is my demo repo for STATS 220.
 
-## Features
+## My seft
 
-- **Bold** for emphasis
-- *Italics* for subtle emphasis
+- **Hoang Huy Lai** is my name
+- *2002* is the year I was born 
 
-### How to Use
+### Hobies 
 
-1. Step one of the process
-2. Step two of the process
-3. Step three of the process
+1. I love play football
+2. Playing video game 
+3. I support FC Barcelone (https://www.fcbarcelona.com/en/)
 
 ### More Information
+I created this for Stats220
 
